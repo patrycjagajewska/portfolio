@@ -1,4 +1,4 @@
-patrycjawrona.github.io.
+Portfolio - patrycjawrona.github.io.
 ====================
 
 ## Hello!
